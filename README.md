@@ -1,14 +1,17 @@
 
-# Instantly Evaluate Answer Sheet In a Second with AI (100% Accuracy)
+# All Dmart in One Place
 
-![Screenshot 2024-09-01 165010](https://github.com/user-attachments/assets/5a6721ee-a88a-4071-b5cf-6bf70302e140)
+![image](https://github.com/user-attachments/assets/8bda63e5-a4c6-438c-8d0e-4d1542fe95f3)
 
 ## Auth System
 
 ![6](https://github.com/user-attachments/assets/beb79b1c-1803-491f-b0f7-582ea258871f)
 
-## Admin Panel
+## Connect Dmart
 
-![1](https://github.com/user-attachments/assets/8878bcca-164b-4b96-8254-32d95b78be3f)
+![image](https://github.com/user-attachments/assets/a9180665-4fcf-4109-bb47-7a1c7ad1364b)
 
-![2](https://github.com/user-attachments/assets/a02c52bd-1c68-4019-ad29-1fc8b05622c1)
+## Market Quotes
+
+![image](https://github.com/user-attachments/assets/806a045d-0560-46d8-a070-0ba7a0aa3a03)
+
